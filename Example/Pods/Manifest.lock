@@ -4,10 +4,10 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HMInputBarAccessoryView (1.0.1):
+  - HMInputBarAccessoryView (1.0.2):
     - RxCocoa
     - RxSwift
-  - HMMessageKit (1.0.0):
+  - HMMessageKit (1.0.2):
     - HMInputBarAccessoryView
   - RxCocoa (6.5.0):
     - RxRelay (= 6.5.0)
@@ -34,8 +34,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HMInputBarAccessoryView: 7503dcd8af10de001f5a76e688831651f3478a5b
-  HMMessageKit: de37b666dbc5dcf201a69f45500fb6e5abd16b96
+  HMInputBarAccessoryView: b588572f4dbac6479d688a8bf81f3ba205d45cb3
+  HMMessageKit: 9922e9a3098d68a53065e172f38bb6cefe6e0a97
   RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "HMMessageKit"
-  s.version = "1.0.1"
+  s.version = "1.0.2"
   s.license = { :type => "MIT", :file => "LICENSE.md" }
 
   s.summary = "MessageKit for iOS 10.0"
