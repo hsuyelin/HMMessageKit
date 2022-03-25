@@ -22,7 +22,7 @@ pod 'HMMessageKit'
 
 ## Author
 
-xuyanling, xuyanling@huami.com
+hsuyelin, hsuyelin@163.com
 
 ## License
 
