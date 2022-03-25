@@ -1,0 +1,6 @@
+framework module HMInputBarAccessoryView {
+  umbrella header "HMInputBarAccessoryView-umbrella.h"
+
+  export *
+  module * { export * }
+}
